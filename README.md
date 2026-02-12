@@ -1,4 +1,4 @@
-# **SQL BUISNESS ANALYSIS PROJECT**
+# **SQL BUSINESS ANALYSIS PROJECT**
 
 ## **BUSINESS SQL ANALYSIS PROJECT FOR DAISY STORES AND ENTERPRISE**
 
@@ -91,3 +91,4 @@ The analysis revealed the following key performance patterns:
 * Support the growing demand for Beauty products by ensuring adequate stock levels and engage in promotional activities.
 * Review the Clothing category strategy as it the weakest category.  
   Engage more in visibility to boost sales to an equal level on all categories.
+
